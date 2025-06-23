@@ -1,0 +1,9 @@
+.chart-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+  }
+  
+  .card-body {
+    min-height: 300px;
+  }

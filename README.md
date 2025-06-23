@@ -19,7 +19,6 @@ A full-stack web application to help users manage income, expenses, and savings 
 **Frontend:** React, Tailwind CSS or Bootstrap  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB with Mongoose  
-**Auth:** JWT, bcrypt  
 **Tools:** Git, GitHub, VS Code
 
 ---
@@ -41,7 +40,7 @@ A full-stack web application to help users manage income, expenses, and savings 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Sanuth11/expense-tracker.git
 
 # Frontend
 cd expense-tracker/client

@@ -21,7 +21,7 @@ function App() {
     const fetchExpenses = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch('http://localhost:5000/api/expenses');
+        const response = await fetch('https://expense-tracker-fe9a.onrender.com');
         if (!response.ok) throw new Error('Failed to fetch');
         const data = await response.json();
         setExpenses(data);

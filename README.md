@@ -35,6 +35,15 @@ A full-stack web application to help users manage income, expenses, and savings 
 - Node.js and npm installed
 - MongoDB (local or cloud)
 - Git installed
+- ## 🌍 Live Demo
+
+Frontend: [https://expense-tracker.vercel.app](https://expense-tracker.vercel.app)  
+Backend: [https://expense-tracker-backend.onrender.com](## 🌍 Live Demo
+
+Frontend: [https://expense-tracker.vercel.app](https://expense-tracker-mk9w4mnvl-sanuths-projects-b65f89aa.vercel.app)
+Backend: [https://expense-tracker-backend.onrender.com](https://expense-tracker-fe9a.onrender.com))
+)
+
 
 ### Installation
 
